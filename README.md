@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/Arshaduzzaman3620?logo=github&style
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON
+ICON ICON ICON ICON ICON ICON ICON
 </p>
 
 
