@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -----------------
 
 
-* ✉️  You can contact me at [ridoy3620@gmail.com](mailto:ridoy3620@gmail.com
 * 🤝  I'm open to collaborating on projects
 
 <a href="https://www.github.com/Arshaduzzaman3620" target="_blank" rel="noreferrer"><img
